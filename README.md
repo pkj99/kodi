@@ -31,7 +31,7 @@ usage: changeKodiVideodbPath.exe [-h] [-m MODE] [-i INPUT] [-o OUTPUT] [-s SOURC
  
       -d DESTINATION, --destination DESTINATION     destination path
  
-Example: if you want to import db to PC, you can replace whole path to you assign
+Example: if you want to import db to PC, you can replace whole path in videodb.xml to you allocated
 
       E:\MOVIE E:\TVSHOW
       
