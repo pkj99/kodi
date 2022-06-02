@@ -2,15 +2,20 @@
 
 1. Download MOVIE.zip TVSHOW.zip videodb.zip to /storage/emulated/0/Download
 2. Extract all of them to current path, then you will see
-    * MOVIE
-    * TVSHOW
+
+    * <MOVIE>
+    * <TVSHOW>
     * videodb.xml
+	
 3. import videodb.xml from KODI
 
 that's it.
 
+or you can download full set MEDIADB.zip for easy restoration
+
 
 << changeKodiVideodbPath >>
+
 usage: changeKodiVideodbPath.exe [-h] [-m MODE] [-i INPUT] [-o OUTPUT] [-s SOURCE] [-d DESTINATION]
 
       options:
@@ -27,7 +32,7 @@ usage: changeKodiVideodbPath.exe [-h] [-m MODE] [-i INPUT] [-o OUTPUT] [-s SOURC
  
       -d DESTINATION, --destination DESTINATION     destination path
  
-Example: if you want to import db to PC, you can replace whole path in videodb.xml to you allocated
+Example: if you want to use Kodi in PC, you can replace folder string (/storage/emulated/0/Download) in videodb.xml to your allocated path (E:)
 
       E:\MOVIE E:\TVSHOW
       
