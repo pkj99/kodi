@@ -31,3 +31,8 @@ options:
  
  -d DESTINATION, --destination DESTINATION     destination path
  
+Example: if you want to import db to PC, you can replace whole path to you assign
+
+      E:\MOVIE E:\TVSHOW
+      
+      changeKodiVideodbPath -m TV2PC -i videodb.xml [-o videodb2.xml] -s /storage/emulated/0/Download -d E:
