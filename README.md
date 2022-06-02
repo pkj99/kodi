@@ -2,13 +2,9 @@
 
 1. Download MOVIE.zip TVSHOW.zip videodb.zip to /storage/emulated/0/Download
 2. Extract all of them to current path, then you will see
-
-      MOVIE
-
-      TVSHOW
-
-      videodb.xml
-
+    * MOVIE
+    * TVSHOW
+    * videodb.xml
 3. import videodb.xml from KODI
 
 that's it.
