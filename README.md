@@ -1,4 +1,4 @@
-# kodi
+# kodi Media Center Database Restore Procedure
 
 1. Download MOVIE.zip TVSHOW.zip videodb.zip to /storage/emulated/0/Download
 2. Extract all of them to current path, then you will see
@@ -17,19 +17,19 @@ that's it.
 << changeKodiVideodbPath >>
 usage: changeKodiVideodbPath.exe [-h] [-m MODE] [-i INPUT] [-o OUTPUT] [-s SOURCE] [-d DESTINATION]
 
-options:
+      options:
 
- -h, --help                                    show this help message and exit
+      -h, --help                                    show this help message and exit
  
- -m MODE, --mode MODE                          PC2PC. PC2TV, TV2TV or TV2PC
+      -m MODE, --mode MODE                          PC2PC. PC2TV, TV2TV or TV2PC
  
- -i INPUT, --input INPUT                       input file name videodb.xml 
+      -i INPUT, --input INPUT                       input file name videodb.xml 
  
- -o OUTPUT, --output OUTPUT                    output file name if given (default:overwrite)
+      -o OUTPUT, --output OUTPUT                    output file name if given (default:overwrite)
  
- -s SOURCE, --source SOURCE                    source path (default: E:\)
+      -s SOURCE, --source SOURCE                    source path (default: E:\)
  
- -d DESTINATION, --destination DESTINATION     destination path
+      -d DESTINATION, --destination DESTINATION     destination path
  
 Example: if you want to import db to PC, you can replace whole path to you assign
 
