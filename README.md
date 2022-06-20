@@ -1,17 +1,22 @@
 # kodi Media Center Database Restore Procedure
 
-1. Download MOVIE.zip TVSHOW.zip videodb.zip to /storage/emulated/0/Download
+1. Download MEDIADB.zip and videodb.zip to /storage/emulated/0/Download
 2. Extract all of them to current path, then you will see
 
     * MOVIE
     * TVSHOW
+	* MV
     * videodb.xml
 	
-3. import videodb.xml from KODI
+3. import videodb.xml into KODI database
+4. add MOVIE, TVSHOW and MV source and setup scrape api for future update
 
 that's it.
 
-or you can download full set MEDIADB.zip for easy restoration
+ps. default media location:
+
+	* videodb.zip		: /storage/emulated/0/Download
+	* videodb4pc.zip 	: E:\
 
 
 << changeKodiVideodbPath >>
@@ -37,6 +42,10 @@ Example: if you want to use Kodi in PC, you can replace folder string (/storage/
       E:\MOVIE E:\TVSHOW
       
       changeKodiVideodbPath -m TV2PC -i videodb.xml [-o videodb2.xml] -s /storage/emulated/0/Download -d E:
+	  
+	  or (swap)
+	  
+	  changeKodiVideodbPath -m PC2TV -i videodb.xml -o videodb2.xml -s E: -d /storage/emulated/0/Download
 
 
 
