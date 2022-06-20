@@ -37,3 +37,12 @@ Example: if you want to use Kodi in PC, you can replace folder string (/storage/
       E:\MOVIE E:\TVSHOW
       
       changeKodiVideodbPath -m TV2PC -i videodb.xml [-o videodb2.xml] -s /storage/emulated/0/Download -d E:
+
+
+
+How to install Netflix skin with Chinese fonts enabled
+
+1. install repository.titan.bingie.mod-1.0.0.zip
+2. cancel enabling BINGIE skin first
+3. manually install skin.titan.bingie.mod-matrix.zhtw.zip
+4. change look and feel to BINGIE netflix skin
