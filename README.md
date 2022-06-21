@@ -51,7 +51,10 @@ Example: if you want to use Kodi in PC, you can replace folder string (/storage/
 
 # How to install Netflix skin with Chinese fonts enabled
 
-https://github.com/pkj99/kodi/blob/master/netflix.skin.installation.mp4
+[![Installation Guide]          // Title
+(https://github.com/pkj99/kodi/blob/master/images/tips/netflix.skin.installation.mp4_snapshot_01.41.503.jpg?raw=true)] // Thumbnail
+(https://github.com/pkj99/kodi/blob/master/netflix.skin.installation.mp4 "Installation Guide")    // Video Link
+
 
 1. install repository.titan.bingie.mod-1.0.0.zip
 2. cancel enabling BINGIE skin temporarily
