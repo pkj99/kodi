@@ -55,3 +55,6 @@ How to install Netflix skin with Chinese fonts enabled
 2. cancel enabling BINGIE skin first
 3. manually install skin.titan.bingie.mod-matrix.zhtw.zip
 4. change look and feel to BINGIE netflix skin
+
+
+![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/netflix.skin.installation.mp4_snapshot_00.13.257.jpg?raw=true)
