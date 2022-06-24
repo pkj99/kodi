@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j7oQEPfe-O8/sddefault.jpg", R.E.M. - The One I Love
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=j7oQEPfe-O8

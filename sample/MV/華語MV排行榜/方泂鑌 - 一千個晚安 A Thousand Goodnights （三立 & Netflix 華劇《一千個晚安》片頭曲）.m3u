@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/daR7z0usVkg/sddefault.jpg", 方泂鑌 - 一千個晚安 A Thousand Goodnights （三立 & Netflix 華劇《一千個晚安》片頭曲）
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=daR7z0usVkg

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yfn8sE9obWU/sddefault.jpg", 周杰倫 - 哪裡都是你 You are everywhere
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=yfn8sE9obWU

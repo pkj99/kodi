@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X1w3JU5dIAg/sddefault.jpg", 五月天 - 你是唯一Youre The One And Only
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=X1w3JU5dIAg

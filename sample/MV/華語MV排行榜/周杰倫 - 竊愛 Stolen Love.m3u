@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6ZeE3vgwQSI/sddefault.jpg", 周杰倫 - 竊愛 Stolen Love
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=6ZeE3vgwQSI

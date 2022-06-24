@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Fn7NLWHJw4s/sddefault.jpg", 五月天 - 派對動物Party Animal
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Fn7NLWHJw4s

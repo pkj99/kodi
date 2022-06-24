@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5UEzwANC78g/sddefault.jpg", 頑童 - GOOD VIBE
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=5UEzwANC78g

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mLFhTFiX0uM/sddefault.jpg", 周杰倫 - 說好的幸福呢 The Promised Love
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=mLFhTFiX0uM

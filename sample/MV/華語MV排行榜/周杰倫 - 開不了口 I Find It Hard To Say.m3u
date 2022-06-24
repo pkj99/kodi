@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/H7hpK6cm-6k/sddefault.jpg", 周杰倫 - 開不了口 I Find It Hard To Say
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=H7hpK6cm-6k

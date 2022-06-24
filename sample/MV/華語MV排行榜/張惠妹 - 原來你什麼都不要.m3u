@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rT4FqOwn-rs/sddefault.jpg", 張惠妹 - 原來你什麼都不要
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=rT4FqOwn-rs

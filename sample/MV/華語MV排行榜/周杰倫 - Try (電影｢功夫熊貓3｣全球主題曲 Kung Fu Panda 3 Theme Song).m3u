@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iJPfSSpnR8g/sddefault.jpg", 周杰倫 - Try (電影｢功夫熊貓3｣全球主題曲 Kung Fu Panda 3 Theme Song)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=iJPfSSpnR8g

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gaMzEJYAJ5s/sddefault.jpg", Dan Hill, Vonda Shepard - Cant We Try
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=gaMzEJYAJ5s

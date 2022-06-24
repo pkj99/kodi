@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mebzXfWi87E/sddefault.jpg", 楊丞琳 - 曖昧
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=mebzXfWi87E

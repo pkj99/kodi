@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/T8QTvEQZIfs/sddefault.jpg", TFBOYS - 青春修炼手册 正式
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=T8QTvEQZIfs

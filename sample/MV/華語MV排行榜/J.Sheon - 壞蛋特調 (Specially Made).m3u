@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Amz4fHUapLk/sddefault.jpg", J.Sheon - 壞蛋特調 (Specially Made)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Amz4fHUapLk

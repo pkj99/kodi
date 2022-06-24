@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PygIBrZFQ6s/sddefault.jpg", 頑童 - 脫罪 Acquittal
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=PygIBrZFQ6s

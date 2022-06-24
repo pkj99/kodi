@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/onNwWAAE4Kg/sddefault.jpg", Abra Cadabra x Kush  The Roads - SBTV
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=onNwWAAE4Kg

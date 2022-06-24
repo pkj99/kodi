@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2Vv-BfVoq4g/sddefault.jpg", Ed Sheeran - Perfect
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=2Vv-BfVoq4g

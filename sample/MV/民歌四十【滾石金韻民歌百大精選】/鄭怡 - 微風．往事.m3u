@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Owt60pHbEak/sddefault.jpg", 鄭怡 - 微風．往事
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Owt60pHbEak

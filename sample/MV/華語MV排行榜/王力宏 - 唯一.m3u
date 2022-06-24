@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P7Qv4AV_StM/sddefault.jpg", 王力宏 - 唯一
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=P7Qv4AV_StM

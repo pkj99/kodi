@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fg4Xc4trG9A/hqdefault.jpg", 鄧福如 - 家有四千金 主題曲 黃仲崑、郁芳、阿雅范筱梵、王怡仁、袁儷珊 主演）
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=fg4Xc4trG9A

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DyFIzKYQQYE/sddefault.jpg", 田馥甄 - 寂寞寂寞就好 Leave Me Alone
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=DyFIzKYQQYE

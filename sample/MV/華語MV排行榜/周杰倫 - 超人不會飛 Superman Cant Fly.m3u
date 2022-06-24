@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4j0Fgmsxr-o/sddefault.jpg", 周杰倫 - 超人不會飛 Superman Cant Fly
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=4j0Fgmsxr-o

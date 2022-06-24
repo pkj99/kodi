@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dhjomo8W6Lc/sddefault.jpg", 陳奕迅 - 我們 Us
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=dhjomo8W6Lc

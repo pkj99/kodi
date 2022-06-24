@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/I1Kx8Ii4eYk/sddefault.jpg", G.E.M. - 岩石裡的花 LOVE FINDS A WAY
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=I1Kx8Ii4eYk

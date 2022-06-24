@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bWx-vtCSg0w/sddefault.jpg", 蔡依林 - 大藝術家The Great Artist
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=bWx-vtCSg0w

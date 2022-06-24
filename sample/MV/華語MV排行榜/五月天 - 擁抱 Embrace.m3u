@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lvDa3r1pNuE/sddefault.jpg", 五月天 - 擁抱 Embrace
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=lvDa3r1pNuE

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rTUIJ4jwL1g/sddefault.jpg", 楊芳儀 徐曉菁 - 夜玫瑰
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=rTUIJ4jwL1g

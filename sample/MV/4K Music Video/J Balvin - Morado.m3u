@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d5ZVaWxkAaQ/sddefault.jpg?v=5e69455c", J Balvin - Morado
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=d5ZVaWxkAaQ

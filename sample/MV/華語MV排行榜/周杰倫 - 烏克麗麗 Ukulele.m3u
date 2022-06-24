@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-QqpEvN2Xd8/sddefault.jpg", 周杰倫 - 烏克麗麗 Ukulele
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=-QqpEvN2Xd8

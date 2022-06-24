@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wSBXfzgqHtE/sddefault.jpg", 周興哲 - 你，好不好？ How Have You Been
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=wSBXfzgqHtE

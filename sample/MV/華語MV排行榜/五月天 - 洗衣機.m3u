@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BfwbO0f1R8o/sddefault.jpg", 五月天 - 洗衣機
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=BfwbO0f1R8o

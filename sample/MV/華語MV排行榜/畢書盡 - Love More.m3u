@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b1E70mAzNwY/sddefault.jpg", 畢書盡 - Love More
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=b1E70mAzNwY

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BjtOxuT8Zec/sddefault.jpg", 楊丞琳 - 點水
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=BjtOxuT8Zec

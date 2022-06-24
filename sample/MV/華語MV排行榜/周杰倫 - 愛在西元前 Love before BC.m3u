@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5XK2C9w6oVk/sddefault.jpg", 周杰倫 - 愛在西元前 Love before BC
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=5XK2C9w6oVk

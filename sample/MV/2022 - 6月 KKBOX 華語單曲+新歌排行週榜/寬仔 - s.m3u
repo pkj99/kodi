@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33zGz8d3Jas/hqdefault.jpg", 寬仔 - s
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=33zGz8d3Jas

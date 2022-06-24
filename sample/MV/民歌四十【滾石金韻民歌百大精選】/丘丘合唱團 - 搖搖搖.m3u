@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BSZOeHaTpI8/sddefault.jpg", 丘丘合唱團 - 搖搖搖
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=BSZOeHaTpI8

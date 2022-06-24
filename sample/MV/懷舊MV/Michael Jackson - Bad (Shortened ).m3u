@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dsUXAEzaC3Q/sddefault.jpg", Michael Jackson - Bad (Shortened )
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=dsUXAEzaC3Q

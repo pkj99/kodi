@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KiBVtQVEWkg/sddefault.jpg", 李佳薇 - 飆 Soar
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=KiBVtQVEWkg

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qIAFyPYlq_U/sddefault.jpg", 嚴爵 - 好的情人
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=qIAFyPYlq_U

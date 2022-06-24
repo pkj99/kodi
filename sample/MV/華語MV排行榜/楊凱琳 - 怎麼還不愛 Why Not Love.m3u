@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3q6D0wMX_H0/sddefault.jpg", 楊凱琳 - 怎麼還不愛 Why Not Love
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=3q6D0wMX_H0

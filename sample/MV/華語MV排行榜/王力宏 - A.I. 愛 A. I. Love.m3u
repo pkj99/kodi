@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/R4DuqEL0ChQ/sddefault.jpg", 王力宏 - A.I. 愛 A. I. Love
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=R4DuqEL0ChQ

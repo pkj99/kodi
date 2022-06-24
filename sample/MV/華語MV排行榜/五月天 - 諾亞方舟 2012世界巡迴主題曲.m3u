@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/V46K7apDziA/sddefault.jpg", 五月天 - 諾亞方舟 2012世界巡迴主題曲
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=V46K7apDziA

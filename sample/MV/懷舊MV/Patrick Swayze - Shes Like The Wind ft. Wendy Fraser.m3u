@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lU9p1WRfA9w/sddefault.jpg", Patrick Swayze - Shes Like The Wind ft. Wendy Fraser
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=lU9p1WRfA9w

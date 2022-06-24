@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZnhHz3rya1w/sddefault.jpg", 吳思賢 - WANT TOO feat.KIRE
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZnhHz3rya1w

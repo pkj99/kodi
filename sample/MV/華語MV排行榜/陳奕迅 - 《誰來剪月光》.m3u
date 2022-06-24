@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/n6VP0Wm3EMo/sddefault.jpg", 陳奕迅 - 《誰來剪月光》
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=n6VP0Wm3EMo

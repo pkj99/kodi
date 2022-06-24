@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xxy0A3jOzVk/sddefault.jpg", 陳彥允 Ian Chen - 小人物大公主 Nobody And Princess
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=xxy0A3jOzVk

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VLp9Nb2dXW8/sddefault.jpg", 李聖傑 - 眼底星空
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=VLp9Nb2dXW8

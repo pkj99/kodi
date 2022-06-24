@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g-E0ojfjYu0/hqdefault.jpg", 陳奕迅 - 心的距離
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=g-E0ojfjYu0

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LklRHqfzR7I/hqdefault.jpg", 美女與野獸 - 中文主題曲
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=LklRHqfzR7I

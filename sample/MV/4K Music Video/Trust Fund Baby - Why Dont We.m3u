@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fOmhbMXY52o/sddefault.jpg", Trust Fund Baby - Why Dont We
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=fOmhbMXY52o

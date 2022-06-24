@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AoquFYC8-mk/sddefault.jpg", 蕭秉治 - 愛過你有多久就有多痛 Love Hurts
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=AoquFYC8-mk

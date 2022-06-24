@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AxtpiZ9Rd84/sddefault.jpg", EMIWAYKEEMA - Quality 2160p
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=AxtpiZ9Rd84

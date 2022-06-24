@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/88D2-J_pk7A/hqdefault.jpg", F.I.R. - 我們的愛
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=88D2-J_pk7A

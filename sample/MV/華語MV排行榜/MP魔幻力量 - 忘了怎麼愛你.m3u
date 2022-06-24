@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dIdd22MfJVI/sddefault.jpg", MP魔幻力量 - 忘了怎麼愛你
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=dIdd22MfJVI

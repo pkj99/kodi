@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KZbswFDOOsY/sddefault.jpg", 毛不易 - 消愁 Drowning Sorrows
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=KZbswFDOOsY

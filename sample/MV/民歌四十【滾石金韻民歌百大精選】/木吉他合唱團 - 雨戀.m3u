@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IobO3BVYEQQ/sddefault.jpg", 木吉他合唱團 - 雨戀
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=IobO3BVYEQQ

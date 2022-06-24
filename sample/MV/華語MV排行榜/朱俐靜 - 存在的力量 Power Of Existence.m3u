@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4Ubok_b1flk/sddefault.jpg", 朱俐靜 - 存在的力量 Power Of Existence
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=4Ubok_b1flk

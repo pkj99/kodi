@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KOLDiXnQC7Q/sddefault.jpg", 楊丞琳 - 帶我走
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=KOLDiXnQC7Q

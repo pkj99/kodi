@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hS_q6A5yfSk/sddefault.jpg", 施孝榮 - 歸人．沙城
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=hS_q6A5yfSk

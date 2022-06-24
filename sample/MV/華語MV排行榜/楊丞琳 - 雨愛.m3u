@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oec9R5ypf-o/sddefault.jpg", 楊丞琳 - 雨愛
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=oec9R5ypf-o

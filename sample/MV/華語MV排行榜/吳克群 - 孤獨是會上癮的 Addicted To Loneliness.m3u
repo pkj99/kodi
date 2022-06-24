@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6Kyvh6fKgs/sddefault.jpg", 吳克群 - 孤獨是會上癮的 Addicted To Loneliness
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=B6Kyvh6fKgs

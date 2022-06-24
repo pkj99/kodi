@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EEDKy3rhZaw/sddefault.jpg", 鄧福如 - 如果有如果
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=EEDKy3rhZaw

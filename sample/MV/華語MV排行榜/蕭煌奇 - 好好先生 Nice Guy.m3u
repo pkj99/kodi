@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/te9Pfsugz6U/sddefault.jpg", 蕭煌奇 - 好好先生 Nice Guy
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=te9Pfsugz6U

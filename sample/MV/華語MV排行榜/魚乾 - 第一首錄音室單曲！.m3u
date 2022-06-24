@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0_sxOF7ZehI/sddefault.jpg", 魚乾 - 第一首錄音室單曲！
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=0_sxOF7ZehI

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t2yFpX27rCc/sddefault.jpg", Omar Sterling - Bob Marley
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=t2yFpX27rCc

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fdQgPu3iUYk/sddefault.jpg", 洗腦神曲 - 好想你 四葉草 
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=fdQgPu3iUYk

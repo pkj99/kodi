@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IOOcbIyoW_0/sddefault.jpg?v=5d4c2db0", Ed Sheeran - Nothing On You (feat. Paulo Londra & Dave) [SBTV ]
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=IOOcbIyoW_0

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zPeMFCDPgKE/sddefault.jpg", 張震嶽 - 愛我別走 Love me,don’t go
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=zPeMFCDPgKE

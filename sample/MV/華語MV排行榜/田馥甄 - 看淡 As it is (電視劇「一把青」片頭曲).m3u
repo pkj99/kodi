@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XqCu-t8YWr4/sddefault.jpg", 田馥甄 - 看淡 As it is (電視劇「一把青」片頭曲)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=XqCu-t8YWr4

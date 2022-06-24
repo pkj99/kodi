@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NjTT5_RSkw4/sddefault.jpg", 朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整音質] The Continent Theme Song
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=NjTT5_RSkw4

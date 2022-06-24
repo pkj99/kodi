@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ysWcr5X0KZs/sddefault.jpg", MP魔幻力量 - 吼Gorilla  CocaCola可口可樂
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=ysWcr5X0KZs

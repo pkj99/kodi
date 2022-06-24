@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CjxM3sN2n88/sddefault.jpg?v=5dc9ccd0", Lil Mosey - Live This Wild
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=CjxM3sN2n88

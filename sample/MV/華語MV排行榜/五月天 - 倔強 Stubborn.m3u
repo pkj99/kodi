@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/R2s-H_crYkc/sddefault.jpg", 五月天 - 倔強 Stubborn
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=R2s-H_crYkc

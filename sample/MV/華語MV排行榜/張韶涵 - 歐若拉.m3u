@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dmwJaG-R1iM/sddefault.jpg", 張韶涵 - 歐若拉
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=dmwJaG-R1iM

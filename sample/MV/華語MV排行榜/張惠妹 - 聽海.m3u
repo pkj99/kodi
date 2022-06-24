@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mLk61pfiHQ0/sddefault.jpg", 張惠妹 - 聽海
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=mLk61pfiHQ0

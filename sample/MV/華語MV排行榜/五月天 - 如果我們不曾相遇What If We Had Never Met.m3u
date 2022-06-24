@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eZMH6Mo0f9A/sddefault.jpg", 五月天 - 如果我們不曾相遇What If We Had Never Met
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=eZMH6Mo0f9A

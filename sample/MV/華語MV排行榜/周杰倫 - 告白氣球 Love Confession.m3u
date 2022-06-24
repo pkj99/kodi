@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bu7nU9Mhpyo/sddefault.jpg", 周杰倫 - 告白氣球 Love Confession
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=bu7nU9Mhpyo

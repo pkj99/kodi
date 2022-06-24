@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UdWlBBqiC7I/hqdefault.jpg", 陳奕迅 - 苦瓜
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=UdWlBBqiC7I

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F0m58YIMPs/sddefault.jpg", 五月天 - 有些事現在不做一輩子都不會做了 三商美邦 勇敢做伙行篇
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=2F0m58YIMPs

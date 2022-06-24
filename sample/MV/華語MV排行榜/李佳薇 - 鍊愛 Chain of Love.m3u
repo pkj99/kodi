@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qCeBX8muMOc/sddefault.jpg", 李佳薇 - 鍊愛 Chain of Love
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=qCeBX8muMOc

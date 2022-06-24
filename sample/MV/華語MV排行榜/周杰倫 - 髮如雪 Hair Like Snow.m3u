@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aaM7qG2ycjk/sddefault.jpg", 周杰倫 - 髮如雪 Hair Like Snow
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=aaM7qG2ycjk

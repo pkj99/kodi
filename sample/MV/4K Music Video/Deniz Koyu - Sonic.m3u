@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d_5lehm4svk/sddefault.jpg", Deniz Koyu - Sonic
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=d_5lehm4svk

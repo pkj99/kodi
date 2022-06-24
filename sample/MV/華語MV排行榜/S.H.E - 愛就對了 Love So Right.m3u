@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5Xvud7uqWNw/sddefault.jpg", S.H.E - 愛就對了 Love So Right
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=5Xvud7uqWNw

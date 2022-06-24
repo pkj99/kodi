@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1CFQ1t5WqeY/sddefault.jpg", 林俊傑 - 超越無限 Infinity And Beyond《中華電信大4G形象廣告曲》
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=1CFQ1t5WqeY

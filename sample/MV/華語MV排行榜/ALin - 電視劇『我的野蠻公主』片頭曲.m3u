@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gINnFruuonc/sddefault.jpg", ALin - 電視劇『我的野蠻公主』片頭曲
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=gINnFruuonc

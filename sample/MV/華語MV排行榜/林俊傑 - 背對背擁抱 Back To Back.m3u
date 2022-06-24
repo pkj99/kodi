@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7xgucJEqNDo/sddefault.jpg", 林俊傑 - 背對背擁抱 Back To Back
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=7xgucJEqNDo

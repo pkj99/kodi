@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BqV7skPEcWo/sddefault.jpg", 林俊傑 - 因你而在 You N Me
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=BqV7skPEcWo

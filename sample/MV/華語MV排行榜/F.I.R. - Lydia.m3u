@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZOHsd6Zk7DM/hqdefault.jpg", F.I.R. - Lydia
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZOHsd6Zk7DM

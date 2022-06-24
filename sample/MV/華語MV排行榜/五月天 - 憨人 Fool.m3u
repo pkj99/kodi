@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1j_mpwKmlJg/sddefault.jpg", 五月天 - 憨人 Fool
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=1j_mpwKmlJg

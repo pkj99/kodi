@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/l9BbUqHrWFI/sddefault.jpg", Dirty Dancing - Time of my Life (Final Dance)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=l9BbUqHrWFI

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MAwrmh6LVDw/sddefault.jpg", 潘瑋柏 - 打呼
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=MAwrmh6LVDw

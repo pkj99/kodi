@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eGlJdDZYYJQ/sddefault.jpg", 楊芳儀 徐曉菁 - 露莎蘭
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=eGlJdDZYYJQ

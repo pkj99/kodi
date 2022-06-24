@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jr___scD19Q/sddefault.jpg", PATHWAYS - Miserae
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=jr___scD19Q

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xrUyk79DLbg/sddefault.jpg", 張惠妹 - 如果你也聽說 Have You Heard Lately
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=xrUyk79DLbg

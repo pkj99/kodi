@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KcK8WurGpEQ/sddefault.jpg", 周杰倫 - 藉口 Excuse
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=KcK8WurGpEQ

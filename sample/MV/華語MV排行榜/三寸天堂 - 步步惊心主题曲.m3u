@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cnFmi7AXeK8/hqdefault.jpg", 三寸天堂 - 步步惊心主题曲
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=cnFmi7AXeK8

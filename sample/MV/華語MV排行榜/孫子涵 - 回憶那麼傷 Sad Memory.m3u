@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LTb4EQBAMbw/sddefault.jpg", 孫子涵 - 回憶那麼傷 Sad Memory
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=LTb4EQBAMbw

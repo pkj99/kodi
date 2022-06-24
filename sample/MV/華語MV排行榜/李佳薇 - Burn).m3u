@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zax1Rg6Oj7Y/sddefault.jpg", 李佳薇 - Burn)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=zax1Rg6Oj7Y

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IteE-HMVJ1M/sddefault.jpg", 周杰倫 - 世界未末日 Not the End of the World
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=IteE-HMVJ1M

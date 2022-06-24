@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-x5odUXWjFk/sddefault.jpg", 張惠妹 - 傲嬌Catfight
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=-x5odUXWjFk

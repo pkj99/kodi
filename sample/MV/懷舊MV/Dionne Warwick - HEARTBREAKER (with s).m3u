@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8VCuCm6XKeA/hqdefault.jpg", Dionne Warwick - HEARTBREAKER (with s)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=8VCuCm6XKeA

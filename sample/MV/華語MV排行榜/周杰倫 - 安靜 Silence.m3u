@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1hI-7vj2FhE/sddefault.jpg", 周杰倫 - 安靜 Silence
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=1hI-7vj2FhE

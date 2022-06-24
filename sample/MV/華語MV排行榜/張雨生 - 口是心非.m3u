@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QAmsnJQEb20/sddefault.jpg", 張雨生 - 口是心非
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=QAmsnJQEb20

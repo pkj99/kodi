@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YKl_SnCwY9Q/sddefault.jpg", 李唯楓 - 好不好 Alright
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=YKl_SnCwY9Q

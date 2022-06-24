@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PIb6AZdTr-A/sddefault.jpg", Cyndi Lauper - Girls Just Want To Have Fun
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=PIb6AZdTr-A

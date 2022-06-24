@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/J93QkyQl9No/sddefault.jpg", 張宇 - 趁早 As Early As Possible
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=J93QkyQl9No

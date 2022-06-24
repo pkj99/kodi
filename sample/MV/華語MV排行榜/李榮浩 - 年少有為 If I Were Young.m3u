@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Dnj5Tcpev0Q/sddefault.jpg", 李榮浩 - 年少有為 If I Were Young
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Dnj5Tcpev0Q

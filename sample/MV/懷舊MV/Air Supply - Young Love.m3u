@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B_ae-iJZazo/sddefault.jpg", Air Supply - Young Love
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=B_ae-iJZazo

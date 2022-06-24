@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/T6wbugWrfLU/sddefault.jpg", Céline Dion - Thats The Way It Is
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6wbugWrfLU

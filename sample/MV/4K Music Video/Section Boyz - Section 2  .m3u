@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JMzyv55dx9U/sddefault.jpg", Section Boyz - Section 2  
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=JMzyv55dx9U

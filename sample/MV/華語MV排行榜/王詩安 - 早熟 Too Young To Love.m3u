@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xnYRxKV1ZM0/hqdefault.jpg", 王詩安 - 早熟 Too Young To Love
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=xnYRxKV1ZM0

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j9k3liT2MLo/sddefault.jpg", 周杰倫 - 前世情人 Lover From Previous Life
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=j9k3liT2MLo

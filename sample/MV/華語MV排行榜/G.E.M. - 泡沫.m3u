@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GHXr4bBxHCo/sddefault.jpg", G.E.M. - 泡沫
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=GHXr4bBxHCo

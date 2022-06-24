@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YWZ2-WEMdDk/sddefault.jpg", 羅志祥 - 有我在 Count on Me
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=YWZ2-WEMdDk

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/atGbcYTjZCY/sddefault.jpg", 蕭敬騰 - 讓我為你唱情歌 A Love Song For You
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=atGbcYTjZCY

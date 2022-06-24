@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/COS0pHrCi0k/sddefault.jpg", 頑童 - 幹大事 BIG THING
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=COS0pHrCi0k

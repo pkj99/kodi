@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3rH19l81Fq4/sddefault.jpg", 四個朋友 - 因為有你 mv
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=3rH19l81Fq4

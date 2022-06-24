@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iEzycw88xvw/sddefault.jpg", 譚荃中 吳明華 - 來唱家鄉的歌
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=iEzycw88xvw

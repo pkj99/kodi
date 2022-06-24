@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/me7jfhFIZvk/sddefault.jpg", 周杰倫 - Mine Mine
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=me7jfhFIZvk

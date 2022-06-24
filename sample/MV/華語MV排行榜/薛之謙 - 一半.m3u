@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M3daqADpu7k/sddefault.jpg", 薛之謙 - 一半
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=M3daqADpu7k

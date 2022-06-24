@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kWcNI6IKUfw/sddefault.jpg", Johnny Logan - Hold Me Now
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=kWcNI6IKUfw

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ysdSPqT4P3I/sddefault.jpg", 陳明韶 - 讓我們看雲去
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=ysdSPqT4P3I

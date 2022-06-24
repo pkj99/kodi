@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xtSdgGHqnls/hqdefault.jpg", 徐佳瑩 - 灰色 The Gray
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=xtSdgGHqnls

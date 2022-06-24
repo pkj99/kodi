@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5IEgzqjGuc8/hqdefault.jpg?v=62a18d17", 林心穎 - 還有哪裡痛痛
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=5IEgzqjGuc8

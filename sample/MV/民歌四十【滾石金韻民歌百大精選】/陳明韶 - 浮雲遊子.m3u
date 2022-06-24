@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pxg5rsTM4-8/sddefault.jpg", 陳明韶 - 浮雲遊子
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Pxg5rsTM4-8

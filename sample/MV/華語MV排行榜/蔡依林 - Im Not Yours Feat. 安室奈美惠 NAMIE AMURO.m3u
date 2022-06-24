@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/C7wRb9adQUc/sddefault.jpg", 蔡依林 - Im Not Yours Feat. 安室奈美惠 NAMIE AMURO
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=C7wRb9adQUc

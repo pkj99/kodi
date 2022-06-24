@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kof4dZYiyf0/sddefault.jpg", 周湯豪 - 億萬分之一的機率
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=kof4dZYiyf0

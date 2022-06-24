@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jgS7nQUa3Wo/sddefault.jpg", 王力宏 - 你的愛 Your Love
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=jgS7nQUa3Wo

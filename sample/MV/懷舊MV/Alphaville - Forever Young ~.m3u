@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t1TcDHrkQYg/sddefault.jpg", Alphaville - Forever Young ~
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=t1TcDHrkQYg

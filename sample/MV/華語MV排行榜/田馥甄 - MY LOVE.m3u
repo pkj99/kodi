@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t3r7a_7LqRA/sddefault.jpg", 田馥甄 - MY LOVE
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=t3r7a_7LqRA

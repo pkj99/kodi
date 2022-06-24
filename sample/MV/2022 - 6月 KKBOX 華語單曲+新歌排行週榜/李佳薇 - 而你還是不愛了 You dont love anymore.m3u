@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZEOOPs82mEA/sddefault.jpg", 李佳薇 - 而你還是不愛了 You dont love anymore
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZEOOPs82mEA

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/w0dMz8RBG7g/sddefault.jpg", 曲婉婷 - 我的歌声里 (You Exist In My Song)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=w0dMz8RBG7g

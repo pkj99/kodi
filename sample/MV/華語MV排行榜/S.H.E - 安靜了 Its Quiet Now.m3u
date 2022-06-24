@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xChME6md5kg/sddefault.jpg", S.H.E - 安靜了 Its Quiet Now
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=xChME6md5kg

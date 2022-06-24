@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LUmQ3zODrsY/sddefault.jpg", 王海玲 - 我心似清泉
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=LUmQ3zODrsY

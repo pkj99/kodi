@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KcPUXBXmMLg/sddefault.jpg", SpeXial - Break it down 終極加長版
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=KcPUXBXmMLg

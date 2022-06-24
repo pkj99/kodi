@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ysvXpc5auQw/sddefault.jpg", 施孝榮 - 中華之愛
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=ysvXpc5auQw

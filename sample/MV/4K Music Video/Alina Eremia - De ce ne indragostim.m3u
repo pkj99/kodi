@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TjrExneLiEU/sddefault.jpg", Alina Eremia - De ce ne indragostim
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=TjrExneLiEU

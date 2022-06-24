@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GsKbnsUN2RE/sddefault.jpg", 田馥甄 - 你就不要想起我 You Better Not Think About Me
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=GsKbnsUN2RE

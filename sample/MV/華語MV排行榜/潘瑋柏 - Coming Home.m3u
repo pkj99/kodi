@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ko8MUCvoYXw/sddefault.jpg", 潘瑋柏 - Coming Home
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=ko8MUCvoYXw

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NA4otP-v6iI/sddefault.jpg", 蘇打綠 - 無與倫比的美麗
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=NA4otP-v6iI

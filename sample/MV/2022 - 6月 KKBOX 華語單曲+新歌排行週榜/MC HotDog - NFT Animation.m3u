@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yOCuipBNsB4/sddefault.jpg?v=6295e493", MC HotDog - NFT Animation
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=yOCuipBNsB4

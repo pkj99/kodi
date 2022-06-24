@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y_NrR7dmBiI/sddefault.jpg", 薛之謙 - 其實
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=y_NrR7dmBiI

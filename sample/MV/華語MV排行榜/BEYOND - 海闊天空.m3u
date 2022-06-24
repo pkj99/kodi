@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qu_FSptjRic/sddefault.jpg", BEYOND - 海闊天空
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=qu_FSptjRic

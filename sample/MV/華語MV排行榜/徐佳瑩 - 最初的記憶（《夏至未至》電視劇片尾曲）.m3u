@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vXXmNhmsHLY/sddefault.jpg", 徐佳瑩 - 最初的記憶（《夏至未至》電視劇片尾曲）
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=vXXmNhmsHLY

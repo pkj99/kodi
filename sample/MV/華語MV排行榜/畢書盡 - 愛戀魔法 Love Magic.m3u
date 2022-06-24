@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aIe4Vf7QAsg/sddefault.jpg", 畢書盡 - 愛戀魔法 Love Magic
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=aIe4Vf7QAsg

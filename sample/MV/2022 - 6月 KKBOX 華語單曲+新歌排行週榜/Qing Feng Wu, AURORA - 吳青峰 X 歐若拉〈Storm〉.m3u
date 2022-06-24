@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2XMFOGWK-DQ/hqdefault.jpg", Qing Feng Wu, AURORA - 吳青峰 X 歐若拉〈Storm〉
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=2XMFOGWK-DQ

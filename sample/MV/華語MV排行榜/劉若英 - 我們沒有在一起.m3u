@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CfYG8Q3ZpMA/hqdefault.jpg", 劉若英 - 我們沒有在一起
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=CfYG8Q3ZpMA

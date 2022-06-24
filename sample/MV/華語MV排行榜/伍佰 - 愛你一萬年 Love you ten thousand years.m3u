@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CgAJAmP14kQ/sddefault.jpg", 伍佰 - 愛你一萬年 Love you ten thousand years
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=CgAJAmP14kQ

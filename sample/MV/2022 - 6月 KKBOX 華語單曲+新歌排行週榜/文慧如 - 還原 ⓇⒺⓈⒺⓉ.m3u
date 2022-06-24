@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kLOpEr6Gp-w/sddefault.jpg?v=62a6d78b", 文慧如 - 還原 ⓇⒺⓈⒺⓉ
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=kLOpEr6Gp-w

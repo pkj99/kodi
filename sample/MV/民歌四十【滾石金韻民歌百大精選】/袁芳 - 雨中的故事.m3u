@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JR-b_megeu8/sddefault.jpg", 袁芳 - 雨中的故事
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=JR-b_megeu8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0Rw8fe_K8H4/hqdefault.jpg", 蕭秉治 - 都是我的錯 It’s All My Fault
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=0Rw8fe_K8H4

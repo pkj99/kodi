@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/D7oQ2Yi_y2I/hqdefault.jpg", 寫不完的溫柔 - G.E.M.
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=D7oQ2Yi_y2I

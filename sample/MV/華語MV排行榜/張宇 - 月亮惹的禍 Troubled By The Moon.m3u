@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1YJ8wSH6HBU/sddefault.jpg", 張宇 - 月亮惹的禍 Troubled By The Moon
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=1YJ8wSH6HBU

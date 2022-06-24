@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e87RsA9Y5lI/sddefault.jpg", MC HotDog - 貧民百萬歌星 Ghetto Superstar
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=e87RsA9Y5lI

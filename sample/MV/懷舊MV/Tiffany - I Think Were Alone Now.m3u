@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/w6Q3mHyzn78/sddefault.jpg", Tiffany - I Think Were Alone Now
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=w6Q3mHyzn78

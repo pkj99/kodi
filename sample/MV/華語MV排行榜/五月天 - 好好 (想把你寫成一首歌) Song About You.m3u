@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HxIct0i-CcA/sddefault.jpg", 五月天 - 好好 (想把你寫成一首歌) Song About You
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=HxIct0i-CcA

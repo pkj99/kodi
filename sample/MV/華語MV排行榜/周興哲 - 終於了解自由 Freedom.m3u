@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BVK_Q6KZSUI/sddefault.jpg?v=5cab6b34", 周興哲 - 終於了解自由 Freedom
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=BVK_Q6KZSUI

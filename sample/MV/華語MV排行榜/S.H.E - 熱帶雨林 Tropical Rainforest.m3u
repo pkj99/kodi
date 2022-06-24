@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M5Y9dandexU/sddefault.jpg", S.H.E - 熱帶雨林 Tropical Rainforest
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=M5Y9dandexU

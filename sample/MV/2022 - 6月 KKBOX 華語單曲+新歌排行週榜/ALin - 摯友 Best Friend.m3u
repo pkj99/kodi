@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vGqpGFH3vh8/sddefault.jpg?v=627a2c6f", ALin - 摯友 Best Friend
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=vGqpGFH3vh8

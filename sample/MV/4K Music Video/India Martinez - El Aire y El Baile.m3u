@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sh0K5lK6E78/sddefault.jpg", India Martinez - El Aire y El Baile
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=sh0K5lK6E78

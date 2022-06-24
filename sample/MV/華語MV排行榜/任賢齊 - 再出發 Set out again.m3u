@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iRuWMQZB7wA/sddefault.jpg", 任賢齊 - 再出發 Set out again
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=iRuWMQZB7wA

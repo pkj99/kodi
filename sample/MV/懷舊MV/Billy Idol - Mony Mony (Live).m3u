@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sYYAv-QW38Q/sddefault.jpg", Billy Idol - Mony Mony (Live)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=sYYAv-QW38Q

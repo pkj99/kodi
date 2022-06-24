@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TK7XIgszMNE/sddefault.jpg", 李玉璽 - 我們青春 We Are Young
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=TK7XIgszMNE

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nWb_X3ZJQjw/sddefault.jpg", 五月天 - 溫柔 Tenderness
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=nWb_X3ZJQjw

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rX31vEbpI0s/sddefault.jpg", 林宥嘉 - 勉強幸福 Fools Bliss
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=rX31vEbpI0s

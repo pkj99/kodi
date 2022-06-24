@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9PXwrEB3osA/sddefault.jpg", 李建復 - 老歌手
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=9PXwrEB3osA

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jmvsxBwpnIQ/sddefault.jpg", 田馥甄 - 我想我不會愛你 I Dont Think I Am In Love With You
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=jmvsxBwpnIQ

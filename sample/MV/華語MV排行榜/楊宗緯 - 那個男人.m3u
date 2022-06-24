@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dfV78HLb_HU/sddefault.jpg", 楊宗緯 - 那個男人
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=dfV78HLb_HU

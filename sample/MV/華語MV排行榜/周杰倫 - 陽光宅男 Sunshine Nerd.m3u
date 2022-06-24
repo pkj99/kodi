@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qQ7g1tfEGFc/sddefault.jpg", 周杰倫 - 陽光宅男 Sunshine Nerd
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=qQ7g1tfEGFc

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Yc40EasXz18/hqdefault.jpg", Almost Paradise - Mike Reno & Ann Wilson
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Yc40EasXz18

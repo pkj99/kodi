@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qf09H2xFq2s/sddefault.jpg", 張惠妹 - Name 連名帶姓
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=qf09H2xFq2s

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/smSh-t2Ap6s/sddefault.jpg", 范廣慧 張智真 - 再別康橋
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=smSh-t2Ap6s

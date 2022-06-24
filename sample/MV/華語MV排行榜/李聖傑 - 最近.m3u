@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/azOIvILpIW8/sddefault.jpg", 李聖傑 - 最近
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=azOIvILpIW8

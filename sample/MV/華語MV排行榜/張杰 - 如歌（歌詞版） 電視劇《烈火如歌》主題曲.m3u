@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Mj6PZhhCb-A/sddefault.jpg", 張杰 - 如歌（歌詞版） 電視劇《烈火如歌》主題曲
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Mj6PZhhCb-A

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/C18nyaRnR1Q/sddefault.jpg", 周杰倫 - 一口氣全唸對 One Breath
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=C18nyaRnR1Q

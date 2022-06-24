@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SstOzs4y6Eg/sddefault.jpg", S.H.E - 五月天 Mayday
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=SstOzs4y6Eg

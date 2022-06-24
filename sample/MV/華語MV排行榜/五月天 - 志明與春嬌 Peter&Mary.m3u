@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5VUUGZ1-nlY/sddefault.jpg", 五月天 - 志明與春嬌 Peter&Mary
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=5VUUGZ1-nlY

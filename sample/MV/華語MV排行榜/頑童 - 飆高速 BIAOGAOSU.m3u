@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jzdWi8J44i4/sddefault.jpg", 頑童 - 飆高速 BIAOGAOSU
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=jzdWi8J44i4

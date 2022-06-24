@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JZZ9Uq6uPDE/sddefault.jpg", Sabiani - Dridhe
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=JZZ9Uq6uPDE

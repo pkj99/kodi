@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sjaf9pFgKtQ/sddefault.jpg?v=6295c569", 同理 - 烏有 Vanished
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=sjaf9pFgKtQ

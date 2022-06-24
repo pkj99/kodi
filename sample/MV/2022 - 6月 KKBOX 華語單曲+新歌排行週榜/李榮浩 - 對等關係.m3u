@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mQUek1GYfvs/sddefault.jpg", 李榮浩 - 對等關係
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=mQUek1GYfvs

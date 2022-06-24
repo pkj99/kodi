@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kiSYRbMn67I/sddefault.jpg?v=620e4212", 周興哲 - 電影「我吃了那男孩一整年的早餐」主題曲
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=kiSYRbMn67I

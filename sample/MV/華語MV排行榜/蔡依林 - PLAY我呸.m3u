@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/c86t8hoVw8E/sddefault.jpg", 蔡依林 - PLAY我呸
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=c86t8hoVw8E

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N_VdOI47kG8/sddefault.jpg", 黃大城 - 漁唱
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=N_VdOI47kG8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/V4hBde4pQ6c/sddefault.jpg", 蘇打綠 - 十年一刻
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=V4hBde4pQ6c

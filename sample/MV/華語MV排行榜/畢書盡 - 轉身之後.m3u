@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dB0t01rSLGQ/sddefault.jpg", 畢書盡 - 轉身之後
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=dB0t01rSLGQ

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fIXTRr22_II/sddefault.jpg", 頑童 - 少年董 DON
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=fIXTRr22_II

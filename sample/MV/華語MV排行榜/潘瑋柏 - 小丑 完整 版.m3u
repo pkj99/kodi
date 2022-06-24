@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PdcheAL3J9I/sddefault.jpg", 潘瑋柏 - 小丑 完整 版
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=PdcheAL3J9I

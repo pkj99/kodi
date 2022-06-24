@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HQW7I62TNOw/sddefault.jpg", KENNY ROGERS &  DOLLY PARTON - ISLANDS IN THE STREAM
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=HQW7I62TNOw

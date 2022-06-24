@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Z8Mqw0b9ADs/sddefault.jpg", 周杰倫 - 青花瓷 Blue and White Porcelain
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Z8Mqw0b9ADs

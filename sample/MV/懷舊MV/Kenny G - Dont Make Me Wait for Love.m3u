@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cGHnB8epj54/sddefault.jpg", Kenny G - Dont Make Me Wait for Love
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=cGHnB8epj54

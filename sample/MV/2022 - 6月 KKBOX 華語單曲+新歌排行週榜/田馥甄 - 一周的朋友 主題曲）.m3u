@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NbX4ZHSuCsg/hqdefault.jpg", 田馥甄 - 一周的朋友 主題曲）
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=NbX4ZHSuCsg

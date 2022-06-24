@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/h-woMj_Vt0A/sddefault.jpg", 林俊傑 - 小酒窩 Dimples （合唱：蔡卓妍 ASa）
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=h-woMj_Vt0A

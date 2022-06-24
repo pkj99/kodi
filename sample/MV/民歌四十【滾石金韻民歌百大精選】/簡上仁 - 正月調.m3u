@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vNHP_65Nan4/sddefault.jpg", 簡上仁 - 正月調
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=vNHP_65Nan4

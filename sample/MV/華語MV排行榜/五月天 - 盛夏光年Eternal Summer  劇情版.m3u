@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nlvTrcdwDLw/sddefault.jpg", 五月天 - 盛夏光年Eternal Summer  劇情版
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=nlvTrcdwDLw

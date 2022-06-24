@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nku5zFMZAdU/sddefault.jpg", 陳淑樺 - 夢醒時分 Dream to awakening
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=nku5zFMZAdU

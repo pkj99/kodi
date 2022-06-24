@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1xlASR2bfGk/sddefault.jpg", 薛之謙 - 醜八怪 (曲 李榮浩)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=1xlASR2bfGk

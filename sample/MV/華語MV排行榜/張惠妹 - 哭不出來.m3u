@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TN4zgS5gEzw/sddefault.jpg", 張惠妹 - 哭不出來
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=TN4zgS5gEzw

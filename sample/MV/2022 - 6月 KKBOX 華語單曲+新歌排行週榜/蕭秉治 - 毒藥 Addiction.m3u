@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rgTQYCo0WCM/hqdefault.jpg", 蕭秉治 - 毒藥 Addiction
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=rgTQYCo0WCM

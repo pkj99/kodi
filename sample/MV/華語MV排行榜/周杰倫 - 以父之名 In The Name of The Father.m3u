@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9q7JOQfcJQM/sddefault.jpg", 周杰倫 - 以父之名 In The Name of The Father
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=9q7JOQfcJQM

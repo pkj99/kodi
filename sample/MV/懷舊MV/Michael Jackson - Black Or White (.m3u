@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/F2AitTPI5U0/sddefault.jpg", Michael Jackson - Black Or White (
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=F2AitTPI5U0

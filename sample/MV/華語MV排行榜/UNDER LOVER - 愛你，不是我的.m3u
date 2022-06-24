@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bKcuh_WDes8/sddefault.jpg", UNDER LOVER - 愛你，不是我的
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=bKcuh_WDes8

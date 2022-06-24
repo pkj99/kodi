@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fzuy63eCUKc/sddefault.jpg", 逃跑计划 - 夜空中最亮的星Brightest Star In The Night Sky
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=fzuy63eCUKc

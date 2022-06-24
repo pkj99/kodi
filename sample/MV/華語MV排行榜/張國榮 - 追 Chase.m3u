@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HcSE3cQH-Ic/sddefault.jpg", 張國榮 - 追 Chase
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=HcSE3cQH-Ic

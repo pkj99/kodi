@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y1j9Zeby18w/hqdefault.jpg", 理想混蛋 - 屬於你 （電影《一周的朋友》插曲）
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=y1j9Zeby18w

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qXv7POo5MNI/sddefault.jpg", 蘇打綠 - 無眠
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=qXv7POo5MNI

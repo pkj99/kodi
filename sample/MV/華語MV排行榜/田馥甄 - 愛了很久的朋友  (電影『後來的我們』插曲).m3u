@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mJwyo5fH3jY/sddefault.jpg", 田馥甄 - 愛了很久的朋友  (電影『後來的我們』插曲)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=mJwyo5fH3jY

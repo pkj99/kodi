@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m2d6JE7UAec/sddefault.jpg", 丘丘合唱團 - 就在今夜
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=m2d6JE7UAec

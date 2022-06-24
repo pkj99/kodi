@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rvVs0muI-gU/sddefault.jpg", Air Supply - Lost In Love
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=rvVs0muI-gU

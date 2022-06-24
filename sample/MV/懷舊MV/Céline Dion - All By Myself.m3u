@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NGrLb6W5YOM/sddefault.jpg", Céline Dion - All By Myself
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=NGrLb6W5YOM

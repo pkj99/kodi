@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TI2mzHG9ReU/sddefault.jpg", 蕭秉治 - 逃 Run Away
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=TI2mzHG9ReU

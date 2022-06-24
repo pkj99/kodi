@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Y34aUJZdSXA/sddefault.jpg", 楊丞琳 - 想幸福的人 Wishing For Happiness
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Y34aUJZdSXA

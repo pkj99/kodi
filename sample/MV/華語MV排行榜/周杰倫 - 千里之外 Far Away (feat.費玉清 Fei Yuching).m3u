@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ocDo3ySyHSI/sddefault.jpg", 周杰倫 - 千里之外 Far Away (feat.費玉清 Fei Yuching)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=ocDo3ySyHSI

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9xTchlwKQd8/sddefault.jpg", Sam Lin - 小壞壞 Little Lover
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=9xTchlwKQd8

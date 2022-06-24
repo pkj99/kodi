@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nuWIJIn7wkw/sddefault.jpg", 莫文蔚 - 他不愛我 He Loves Me Not
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=nuWIJIn7wkw

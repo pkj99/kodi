@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VaAacrLk4gE/sddefault.jpg?v=5ccc1059", 陳零九 - 天黑請閉眼 Werewolves
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=VaAacrLk4gE

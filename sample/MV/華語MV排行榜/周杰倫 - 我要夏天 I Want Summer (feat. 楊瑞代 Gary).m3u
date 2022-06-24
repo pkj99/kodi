@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3LFDEeLm0ss/sddefault.jpg", 周杰倫 - 我要夏天 I Want Summer (feat. 楊瑞代 Gary)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=3LFDEeLm0ss

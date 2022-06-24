@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8OwVaewDtS8/sddefault.jpg?v=5ce4f513", Martin Garrix - Summer Days
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=8OwVaewDtS8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ent_oy8QGZ4/sddefault.jpg", [ ORIGINAL ] Without Crying - Decide
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ent_oy8QGZ4

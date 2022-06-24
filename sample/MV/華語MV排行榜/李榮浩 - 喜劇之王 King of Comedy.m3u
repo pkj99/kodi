@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ijLLmE_sFkY/hqdefault.jpg", 李榮浩 - 喜劇之王 King of Comedy
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=ijLLmE_sFkY

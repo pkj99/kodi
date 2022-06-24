@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d8Vawln8Vt8/sddefault.jpg", 范瑋琪 - 到不了
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=d8Vawln8Vt8

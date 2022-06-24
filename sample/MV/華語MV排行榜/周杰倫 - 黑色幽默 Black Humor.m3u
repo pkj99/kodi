@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wRT-5heURhY/sddefault.jpg", 周杰倫 - 黑色幽默 Black Humor
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=wRT-5heURhY

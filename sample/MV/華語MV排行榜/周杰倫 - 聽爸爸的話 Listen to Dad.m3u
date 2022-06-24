@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eS2T9IiOYbc/sddefault.jpg", 周杰倫 - 聽爸爸的話 Listen to Dad
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=eS2T9IiOYbc

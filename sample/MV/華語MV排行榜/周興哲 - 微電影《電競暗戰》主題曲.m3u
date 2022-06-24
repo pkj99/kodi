@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P-gaPbQVRfM/sddefault.jpg", 周興哲 - 微電影《電競暗戰》主題曲
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=P-gaPbQVRfM

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hFJAzTqYFHc/sddefault.jpg", 動力火車 - 忠孝東路走九遍
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=hFJAzTqYFHc

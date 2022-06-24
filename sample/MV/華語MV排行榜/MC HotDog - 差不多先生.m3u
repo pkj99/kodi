@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mrqKvu-rqIc/sddefault.jpg", MC HotDog - 差不多先生
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=mrqKvu-rqIc

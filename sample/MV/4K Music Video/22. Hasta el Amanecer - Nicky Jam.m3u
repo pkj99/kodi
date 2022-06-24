@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kkx-7fsiWgg/sddefault.jpg", 22. Hasta el Amanecer - Nicky Jam
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=kkx-7fsiWgg

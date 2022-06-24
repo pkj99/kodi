@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6Cs3Pvmmv0E/sddefault.jpg", George Michael - Faith
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=6Cs3Pvmmv0E

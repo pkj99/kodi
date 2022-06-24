@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6VMZsMjfiEQ/sddefault.jpg", 蕭煌奇 - 死心了沒有 Not Over You
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=6VMZsMjfiEQ

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t7j12RWcOYU/sddefault.jpg?v=62ac2a32", 孫盛希 - jagi
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=t7j12RWcOYU

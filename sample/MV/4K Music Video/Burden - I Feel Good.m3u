@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P35krNiZsGc/sddefault.jpg?v=5e4c41f5", Burden - I Feel Good
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=P35krNiZsGc

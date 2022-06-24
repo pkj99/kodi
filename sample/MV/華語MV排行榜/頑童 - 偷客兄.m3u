@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kqSAemrb90A/sddefault.jpg", 頑童 - 偷客兄
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=kqSAemrb90A

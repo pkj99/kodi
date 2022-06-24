@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sHD_z90ZKV0/sddefault.jpg", 周杰倫 - 稻香 Rice Field
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=sHD_z90ZKV0

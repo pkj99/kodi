@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-mKTjExsQZA/sddefault.jpg", ADA 阿達 - 我說寶貝 feat. Lulu 黃路梓茵
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=-mKTjExsQZA

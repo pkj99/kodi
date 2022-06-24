@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aTf_9o-Vnkg/sddefault.jpg", 頑童 - 走跳
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=aTf_9o-Vnkg

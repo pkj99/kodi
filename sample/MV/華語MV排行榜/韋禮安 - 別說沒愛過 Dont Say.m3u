@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Eip1p8H0YII/sddefault.jpg", 韋禮安 - 別說沒愛過 Dont Say
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Eip1p8H0YII

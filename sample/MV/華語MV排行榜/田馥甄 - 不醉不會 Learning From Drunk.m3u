@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7gQxgKaiPzk/sddefault.jpg", 田馥甄 - 不醉不會 Learning From Drunk
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=7gQxgKaiPzk

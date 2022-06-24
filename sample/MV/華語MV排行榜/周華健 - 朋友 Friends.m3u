@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6lbPgfKK7m4/sddefault.jpg", 周華健 - 朋友 Friends
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=6lbPgfKK7m4

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/n95IW3-g3kQ/sddefault.jpg", 陳明韶 - 下雨天的週末
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=n95IW3-g3kQ

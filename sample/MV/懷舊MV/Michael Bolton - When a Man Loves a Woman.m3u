@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MUuNDb-nm5M/sddefault.jpg", Michael Bolton - When a Man Loves a Woman
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=MUuNDb-nm5M

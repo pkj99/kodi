@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Yx4lLUmQMc0/sddefault.jpg", 卓文萱 - 不要不要 台視、三立華劇「小資女孩向前衝」片頭曲
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Yx4lLUmQMc0
