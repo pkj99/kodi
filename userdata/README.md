@@ -19,19 +19,18 @@ that's it.
 
 
 
-![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure (1).jpg?raw=true)
+![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure.1.jpg?raw=true)
 
-![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure (2).jpg?raw=true)
+![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure.2.jpg?raw=true)
 
-![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure (3).jpg?raw=true)
+![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure.3.jpg?raw=true)
 
-![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure (4).jpg?raw=true)
+![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure.4.jpg?raw=true)
 
-![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure (5).jpg?raw=true)
+![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure.5.jpg?raw=true)
 
-![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure (6).jpg?raw=true)
+![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure.6.jpg?raw=true)
 
-![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure (7).jpg?raw=true)
+![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure.7.jpg?raw=true)
 
-![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure (8).jpg?raw=true)
-
+![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure.8.jpg?raw=true)
