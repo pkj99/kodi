@@ -2,6 +2,9 @@
 
 1. Download https://github.com/pkj99/kodi/raw/master/mediadb/MEDIADB.zip to /storage/emulated/0/Download 
 2. Download https://github.com/pkj99/kodi/raw/master/userdata/TV/userdata.zip to /storage/emulated/0/Download
+	NAS: 	smb://192.168.1.1/g
+	PC:		E:\
+	TV:		/storage/emulated/0/Download
 3. Extract all of them to current path, then you will see
 
     * MOVIE
@@ -19,16 +22,16 @@ that's it.
 
 # <userdata> directory explanation
 
-	<addon_data>			settings of installed add-ons
-	<Database>				media db
+	<addon_data>		settings of installed add-ons
+	<Database>			media db
 		Addons33.db
-		Epg13.db			TV epg information
+		Epg13.db		TV epg information
 		MyMusic82.db
 		MyVideos119.db		media database including all information of movies and tv shows
 		Textures13.db
-		TV38.db				TV channels
+		TV38.db			TV channels
 		ViewModes6.db
-	<playlists>				playlists (eg. musicvideo)
+	<playlists>			playlists (eg. musicvideo)
 	favourites.xml
 	guisettings.xml
 	profiles.xml
