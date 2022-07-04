@@ -2,6 +2,7 @@
 
 1. Download https://github.com/pkj99/kodi/raw/master/mediadb/MEDIADB.zip to /storage/emulated/0/Download 
 2. Download https://github.com/pkj99/kodi/raw/master/userdata/TV/userdata.zip to /storage/emulated/0/Download
+
 	NAS: 	smb://192.168.1.1/g
 	PC:		E:\
 	TV:		/storage/emulated/0/Download
@@ -22,7 +23,7 @@ that's it.
 
 # <userdata> directory explanation
 
-	<addon_data>		settings of installed add-ons
+	<addon_data>			settings of installed add-ons
 	<Database>			media db
 		Addons33.db
 		Epg13.db		TV epg information
@@ -36,7 +37,7 @@ that's it.
 	guisettings.xml
 	profiles.xml
 	RssFeeds.xml
-	sources.xml				media path
+	sources.xml			media path
 	
 
 ![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure.1.png?raw=true)
