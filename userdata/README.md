@@ -17,7 +17,24 @@
 
 that's it.
 
+# userdata directory explanation
 
+	<addon_data>		settings of installed add-on
+	<Database>			media db
+		Addons33.db
+		Epg13.db		TV epg
+		MyMusic82.db
+		MyVideos119.db	media database including all information of movies and tv shows
+		Textures13.db
+		TV38.db			TV channels
+		ViewModes6.db
+	<playlists>			playlists (eg. musicvideo)
+	favourites.xml
+	guisettings.xml
+	profiles.xml
+	RssFeeds.xml
+	sources.xml			media path
+	
 
 ![alt text](https://github.com/pkj99/kodi/blob/master/images/tips/userdata.restore.procedure.1.png?raw=true)
 
